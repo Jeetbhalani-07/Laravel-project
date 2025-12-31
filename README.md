@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Laravel Role & Permission Management System
 
 A Laravel-based Role and Permission Management System with a modern frontend built using Tailwind CSS.  
@@ -53,6 +52,4 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
-=======
-# Laravel-project
->>>>>>> 1e17edadd790665edefd72e0fc545216728cb3d9
+
